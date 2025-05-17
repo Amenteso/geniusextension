@@ -2,8 +2,8 @@
 // @name         Genius Şarkı Sözü Editörü Geliştirme
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Genius editöründe bold/italic butonları ve otomatik section butonları ekler
-// @author       Sen
+// @description  Genius Helper
+// @author       Amentes
 // @match        https://genius.com/*
 // @grant        none
 // ==/UserScript==
