@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name         Genius Şarkı Sözü Editörü Geliştirme
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Genius editöründe bold/italic butonları ve otomatik section butonları ekler
+// @author       Sen
+// @match        https://genius.com/*
+// @grant        none
+// ==/UserScript==
+
+(function () {
+    'use strict';
+
 let currentTextarea = null;
 let lastSelection = { start: null, end: null };
 let sectionButtonsAdded = false;
@@ -415,3 +428,4 @@ document.addEventListener("click", function (e) {
         }, 1000);
     }
 });
+    })();
