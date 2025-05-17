@@ -5,6 +5,8 @@
 // @description  Genius Helper
 // @author       Amentes
 // @match        https://genius.com/*
+// @updateURL    https://raw.githubusercontent.com/Amenteso/geniusextension/main/content.js
+// @downloadURL  https://raw.githubusercontent.com/Amenteso/geniusextension/main/content.js
 // @grant        none
 // ==/UserScript==
 
