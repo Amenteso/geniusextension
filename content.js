@@ -22,7 +22,7 @@ function addStyle() {
     style.innerHTML = `
     .genius-format-popup {
         position: absolute;
-        background: #222;
+        background: #223;
         color: white;
         border-radius: 8px;
         padding: 8px 10px;
