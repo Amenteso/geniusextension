@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Genius Şarkı Sözü Editörü Geliştirme
+// @name         Genius Helper
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Genius Helper
